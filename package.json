@@ -1,0 +1,16 @@
+{
+  "name": "dbot06001",
+  "version": "1.0.0",
+  "description": "A reddit bot for the dbot0600 reddit account",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daniel Infante Pacheco",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "snoowrap": "^1.23.0",
+    "telegraf": "^4.4.2"
+  }
+}
